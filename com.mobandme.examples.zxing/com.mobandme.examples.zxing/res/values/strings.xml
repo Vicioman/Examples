@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="my_app_name">Zxing Demo</string>
+	<string name="title_scaned_value">Scaned Value:</string>
+	<string name="title_scaned_value_empty">&#8230;</string>
+	<string name="title_scan">Scan</string>
+</resources>
