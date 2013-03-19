@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ADA Framework Example</string>
+    <string name="command_delete">Delete</string>
+    <string name="command_revert">Cancel</string>
+    <string name="command_save">Save</string>
+
+</resources>
