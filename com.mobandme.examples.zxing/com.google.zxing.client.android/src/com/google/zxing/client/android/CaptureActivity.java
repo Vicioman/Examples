@@ -150,7 +150,7 @@ public class CaptureActivity extends Activity implements SurfaceHolder.Callback 
 
     PreferenceManager.setDefaultValues(this, R.xml.preferences, false);
 
-    showHelpOnFirstLaunch();
+    //showHelpOnFirstLaunch();
   }
 
   @Override
